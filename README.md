@@ -14,10 +14,11 @@ If you find the code and dataset useful in your research, please consider citing
       year={2017},
     }
 
+Download: [Dataset](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip), [Results](https://beardatashare.bham.ac.uk/dl/fi5XpnJeWu3od1TZCWAAiAm6/RGBDresults.zip)
+
 Note that the code was tested in Matlab 2014a. If you use a different Matlab version, you might get different results.
 
 ### License
 
 This software is being made available for research purpose only.
 
-Download: [Dataset](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip), Results

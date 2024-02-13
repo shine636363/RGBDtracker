@@ -11,7 +11,7 @@ If you find the code and dataset useful in your research, please consider citing
       journal={IEEE Transactions on Cybernetics},
       number={99},
       pages={1-15},
-      year={2017},
+      year={2018},
     }
 
 Download: [Dataset](https://beardatashare.bham.ac.uk/dl/fiVnhJRjkyNN8QjSAoiGSiBY/RGBDdataset.zip), [Results](https://beardatashare.bham.ac.uk/dl/fi5XpnJeWu3od1TZCWAAiAm6/RGBDresults.zip)
